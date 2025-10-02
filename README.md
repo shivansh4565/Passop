@@ -60,6 +60,7 @@ yarn dev
 ```
 
 Your app will be running at **[http://localhost:5173/](http://localhost:5173/)** 🎉
+ Live app running at **[https://passop-wheat.vercel.app/](https://passop-wheat.vercel.app/)** 🎉
 
 ---
 
